@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sonusahani2005
   
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...  java and  AI & Machine Learning  
   
-  
-- 
+  💡 Passionate about Web & App Development  
+
 - ⚡ Fun fact: ...still student
 
 <!---
